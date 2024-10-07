@@ -71,6 +71,7 @@ public class SearchService {
         }
         // Return results
        // return itemList;
+
         // Fail CI pipeline
         return Collections.emptyList();
     }
